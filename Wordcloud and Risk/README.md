@@ -15,6 +15,12 @@ them. The data on data.medicare.gov can usually be viewed the same day
 it has been updated on Hospital Compare. Use data.medicare.gov to
 customize views and filter the Hospital Compare data.
 
+### Data Visualization type
+Visit this link to visualize wordcloud of people of different risk attitude (high vs low). For detailed instruction, read `about` in the app's panel bar: https://dave0420.shinyapps.io/shiny
+
+![Alt text](https://github.com/0420DAVE/Dospert-Risk-Domain-Analysis/blob/master/Wordcloud%20and%20Risk/Screenshot%202015-06-24%2012.34.20.png?raw=true "ShinyApp Printscreen")
+
+
 ### App Instructions
 On the left sidebar, select one type of domain you can to compare (heart
 attack, heart failure, or pneumonia); also select the state you want to
