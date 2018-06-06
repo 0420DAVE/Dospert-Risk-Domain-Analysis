@@ -13,11 +13,11 @@ Visit this link to visualize wordcloud of people of different risk attitude (hig
 Data is collected from qualtrics. Participants did 80 questions on DOSPERT risk attitude scale, and write 4 words after each questions under instructions of free association
 
 Documentation for the files
-`AnalysisCode.html`: html view of analysis code
-`AnalysisCode.Rmd`:  rmd view of analysis code
-`DOSPERT_40_coding.doc`: coding instruction of DOSPERT analysis
-`Dospert_Score_Risk_Association_Survey.xls`: Data collected by Matisha, from qualtrics
-`freeAssociation.csv` :separate file storing language data collected from participants
-`Word Rating Warriner.xlsx`: file storing valence value for each words (I didn't use these data in my analysis
-`Wordcloud and Risk folder`: files for shinyapp 
+`AnalysisCode.html`: html view of analysis code    
+`AnalysisCode.Rmd`:  rmd view of analysis code    
+`DOSPERT_40_coding.doc`: coding instruction of DOSPERT analysis    
+`Dospert_Score_Risk_Association_Survey.xls`: Data collected by Matisha, from qualtrics    
+`freeAssociation.csv` :separate file storing language data collected from participants    
+`Word Rating Warriner.xlsx`: file storing valence value for each words (I didn't use these data in my analysis    
+`Wordcloud and Risk folder`: files for shinyapp     
 
